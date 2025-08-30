@@ -1,19 +1,16 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+[SOLO PROJECT] URL Saver (Google Chrome Extension)
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+One of the solo projects I created during my learning in Scrimba's Fullstack Developer Path. In this project, I applied:
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+- Extensive application of the HTML, CSS, Javascript stack.
+- Utilized Chrome's API to fetch the current tab of Chrome Browser.
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+In order to use this chrome extension, kindly download this repository.
 
-Happy Coding!
+Open Google Chrome then proceed to Manage Extensions.
+
+Toggle the developer mode and then select "Load unpacked"
+
+Select the whole folder.
+
+Enjoy!
