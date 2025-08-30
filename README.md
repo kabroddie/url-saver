@@ -1,4 +1,4 @@
-[SOLO PROJECT] URL Saver (Google Chrome Extension)
+**[SOLO PROJECT] URL Saver (Google Chrome Extension)**
 
 One of the solo projects I created during my learning in Scrimba's Fullstack Developer Path. In this project, I applied:
 
@@ -13,4 +13,4 @@ Toggle the developer mode and then select "Load unpacked"
 
 Select the whole folder.
 
-Enjoy!
+**Enjoy!**
